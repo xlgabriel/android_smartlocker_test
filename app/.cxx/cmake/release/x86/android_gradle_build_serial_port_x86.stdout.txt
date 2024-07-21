@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\develop\demo\android locker test\android locker test_v1_5\app\.cxx\cmake\release\x86'
+ninja: no work to do.

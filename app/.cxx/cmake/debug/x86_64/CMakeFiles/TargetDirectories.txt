@@ -1,0 +1,3 @@
+D:/develop/demo/android locker test/android locker test_v1_5/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+D:/develop/demo/android locker test/android locker test_v1_5/app/.cxx/cmake/debug/x86_64/CMakeFiles/serial_port.dir
+D:/develop/demo/android locker test/android locker test_v1_5/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir

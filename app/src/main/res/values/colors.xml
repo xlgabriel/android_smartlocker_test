@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryBK">#009966</color>
+    <color name="colorBtnBK">#009966</color>
+    <color name="colorBtnFont">#FFFFFF</color>
+    <color name="colorBtnBKPJ">#009966</color>
+    <color name="colorBtnBKQJ">#6C5B7B</color>
+</resources>

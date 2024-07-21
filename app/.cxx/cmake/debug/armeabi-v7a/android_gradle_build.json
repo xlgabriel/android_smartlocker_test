@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "D:/develop/demo/android locker test/android locker test_v1_5/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/leo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/leo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dserial_port_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\CMakeLists.txt",
+    "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "serial_port-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" serial_port",
+      "buildType": "debug",
+      "toolchain": "3102758637",
+      "abi": "armeabi-v7a",
+      "artifactName": "serial_port",
+      "files": [
+        {
+          "src": "D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\src\\main\\cpp\\SerialPort.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libserial_port.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3102758637": {
+      "cCompilerExecutable": "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

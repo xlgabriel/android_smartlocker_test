@@ -1,0 +1,3 @@
+# ninja log v5
+1	1580	666513607	CMakeFiles/serial_port.dir/src/main/cpp/SerialPort.c.o	702d8e06ea292556
+1582	3319	666513609	../../../../build/intermediates/cmake/release/obj/armeabi-v7a/libserial_port.so	f0ea7295b192a6b3

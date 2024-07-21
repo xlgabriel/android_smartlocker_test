@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\CMakeLists.txt",
+    "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "serial_port-Debug-armeabi-v7a": {
+      "artifactName": "serial_port",
+      "buildCommand": "C:\\Users\\leo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" serial_port",
+      "abi": "armeabi-v7a",
+      "output": "D:\\develop\\demo\\android locker test\\android locker test_v1_5\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libserial_port.so",
+      "runtimeFiles": []
+    }
+  }
+}

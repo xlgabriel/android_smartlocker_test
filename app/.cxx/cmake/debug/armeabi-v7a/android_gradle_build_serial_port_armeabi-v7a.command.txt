@@ -1,0 +1,7 @@
+Executable : C:\Users\leo\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\develop\demo\android locker test\android locker test_v1_5\app\.cxx\cmake\debug\armeabi-v7a
+serial_port
+jvmArgs : 
+
